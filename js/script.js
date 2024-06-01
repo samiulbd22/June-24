@@ -200,7 +200,7 @@ const members = {
         name:"Khondokar Emon Ahmed",
         // pre-previous month list
         post_payable        :6864,
-        previous_paid       :5000,
+        previous_paid       :8200,
         previous_dining_cost:1300,
         payment             :undefined,
         // running month
