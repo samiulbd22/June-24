@@ -92,8 +92,8 @@ const members = {
         // running month
         stay_cost       :2200,
         garage_cost     :0,
-        running_payable :0,
-        running_paid    :0,
+        running_payable :2524,
+        running_paid    :4000,
         running_meal    :5,
         // method calling
         preMonth,
@@ -111,7 +111,7 @@ const members = {
         // running month
         stay_cost       :2000,
         garage_cost     :0,
-        running_payable :0,
+        running_payable :2420,
         running_paid    :0,
         running_meal    :6,
         // method calling
@@ -130,7 +130,7 @@ const members = {
         // running month
         stay_cost       :2500,
         garage_cost     :500,
-        running_payable :0,
+        running_payable :3298,
         running_paid    :2500,
         running_meal    :6,
         // method calling
@@ -149,7 +149,7 @@ const members = {
         // running month
         stay_cost       :3500,
         garage_cost     :0,
-        running_payable :0,
+        running_payable :4120,
         running_paid    :0,
         running_meal    :0,
         // method calling
@@ -168,7 +168,7 @@ const members = {
         // running month
         stay_cost       :3000,
         garage_cost     :0,
-        running_payable :0,
+        running_payable :4034,
         running_paid    :0,
         running_meal    :9,
         // method calling
@@ -187,7 +187,7 @@ const members = {
         // running month
         stay_cost       :3000,
         garage_cost     :0,
-        running_payable :0,
+        running_payable :3493,
         running_paid    :0,
         running_meal    :0,
         // method calling
@@ -206,7 +206,7 @@ const members = {
         // running month
         stay_cost       :3000,
         garage_cost     :0,
-        running_payable :0,
+        running_payable :3624,
         running_paid    :0,
         running_meal    :12,
         // method calling
@@ -225,7 +225,7 @@ const members = {
         // running month
         stay_cost       :2500,
         garage_cost     :0,
-        running_payable :0,
+        running_payable :871,
         running_paid    :0,
         running_meal    :6,
         // method calling
